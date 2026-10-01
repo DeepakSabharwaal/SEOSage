@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://seosage.co/"><img src="assets/banner.png" alt="SEOSage app for Mac: install the desktop SEO audit software with one Homebrew command" width="100%"></a>
+  <a href="https://seosage.co/"><img src="assets/banner.png?v=3" alt="SEOSage app for Mac: install the desktop SEO audit software with one Homebrew command" width="100%"></a>
 </p>
 
 # SEOSage app for Mac: Homebrew install
@@ -10,7 +10,7 @@ This repository is the official [Homebrew](https://brew.sh) tap for the SEOSage 
 
 ## Install
 
-<p align="center"><img src="assets/install.png" alt="Terminal showing the brew commands to install, update and remove the SEOSage app" width="80%"></p>
+<p align="center"><img src="assets/install.png?v=3" alt="Terminal showing the brew commands to install, update and remove the SEOSage app" width="80%"></p>
 
 ```sh
 brew install --cask deepaksabharwaal/seosage/seosage
@@ -34,9 +34,9 @@ Works on Apple Silicon (M1, M2, M3, M4) and Intel Macs. Homebrew picks the right
 
 Crawl a whole site, see every issue grouped by type, click one to see the pages it affects, then export a report for your client. The screens below are from a real crawl of [marketingly.org](https://marketingly.org/).
 
-<p align="center"><img src="assets/screen-issues.png" alt="SEOSage app Issues screen listing errors, warnings and notices from a full site crawl" width="90%"></p>
+<p align="center"><img src="assets/screen-issues.png?v=3" alt="SEOSage app Issues screen listing errors, warnings and notices from a full site crawl" width="90%"></p>
 
-<p align="center"><img src="assets/screen-report.png" alt="SEOSage app Reports screen with site health score and export to CSV, PDF or PowerPoint" width="90%"></p>
+<p align="center"><img src="assets/screen-report.png?v=3" alt="SEOSage app Reports screen with site health score and export to CSV, PDF or PowerPoint" width="90%"></p>
 
 ## Licence
 
